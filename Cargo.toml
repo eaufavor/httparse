@@ -16,6 +16,7 @@ build = "build.rs"
 [features]
 default = ["std"]
 std = []
+compatible = []
 
 [dev-dependencies]
 pico-sys = "0.0.1"
